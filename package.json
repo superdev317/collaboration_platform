@@ -105,7 +105,7 @@
     "expect-enzyme": "^0.14.1",
     "expect-jsx": "^5.0.0",
     "file-loader": "^1.1.5",
-    "jsdom": "^11.3.0",
+    "jsdom": "^16.5.0",
     "json-sort-cli": "^1.0.5",
     "less-loader": "^4.0.5",
     "mock-require": "^2.0.2",
